@@ -8,13 +8,6 @@ Prérequis pour démarrer le projet  :
     Docker 
     maven
 ```
-### Faites un clone
-:rocket:
-
-* Go
-
-```bash 
-git clone https://github.com/mct200/admin-app.git
 # Executer la commande docker-compose 
 docker-compose up -d
 # Démarrer le projet pour les tests 
